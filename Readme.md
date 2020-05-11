@@ -1,5 +1,12 @@
 # Milestone-2: SUDOKU
 
+Team - 1
+1. [Mudavath Sunitha]
+
+2. [Sumanth Kondaparthy]
+
+3. [Aqeeb Javeed Mohammed]
+
 ## Learning Competencies
 At the end of this milestone you will learn
  - Understanding object-oriented Javascript
